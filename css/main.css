@@ -1,0 +1,219 @@
+ body{
+ 	font-size: 16px;
+ 	font-family: 'Courgette', cursive;
+ 	font-weight: 300;
+ 	background-color: ivory;
+ 	
+ }
+
+body{
+ 	font-size: 16px;
+ 	font-family: 'Courgette', cursive;
+ 	font-weight: 300;
+ 	background-color: ivory;
+ }
+
+
+
+.eltolas1{
+	padding-top: 160px;
+}
+
+.sor1{
+	text-align: center;
+}
+
+img{
+	max-width: 100%;
+	height: 200px;
+	width: 160px;
+	transform: translate(y) 10rem;
+}
+
+.kartya{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: gray;
+	border:2px solid black;
+	border-radius: 8px;
+	padding: 10px;
+	margin: 6px;
+	text-align: center;
+	max-width: 14rem;
+}
+
+.kartya img{
+	max-height: 300px;
+	max-width: 360px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+
+
+h1{
+	color: black;
+}
+h2{
+	color:black;
+}
+h3{
+	color: black;
+}
+a{
+	color: black;
+}
+
+<!-- innentől jön az elérhetőség projekt --!>
+
+ .eltolas2{
+	padding-top: 50px;
+}
+
+.sor2{
+	text-align: left:180px;
+}
+
+.kartya2{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: lightgray;
+	border:3px solid black;
+	border-radius: 8px;
+	padding: 40px;
+	margin: 8px;
+	text-align: center;
+	max-width: 35rem;
+}
+
+.kartya3{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: lightgray;
+	border:3px solid black;
+	border-radius: 18px;
+	padding: 50px;
+	margin: 4px;
+	text-align: center;
+	max-width: 55rem;
+}
+
+.eltolas4{
+	padding-top: 50px;
+}
+
+.sor4{
+	text-align: left:180px;
+}
+
+.kartya4{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: lightgray;
+	border:3px solid black;
+	border-radius: 8px;
+	padding: 40px;
+	margin: 8px;
+	text-align: center;
+	max-width: 35rem;
+}
+
+#masodik-kep{
+	max-width: 100%;
+	height: 300px;
+	width: 660px;
+	transform: translate(y) 5rem;
+}
+
+
+.eltolas3{
+	padding-top: 40px;
+}
+
+.sor3{
+	text-align: center;
+}
+
+.kartya5{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: gray;
+	border:2px solid black;
+	border-radius: 8px;
+	padding: 12px;
+	margin: 42px;
+	text-align: center;
+	max-width: 12rem;
+}
+
+.kartya5 img{
+	max-height: 600px;
+	max-width: 360px;
+	display: block;
+	margin: 0 auto;
+}
+.kartya6{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: gray;
+	border:2px solid black;
+	border-radius: 8px;
+	padding: 12px;
+	margin: 42px;
+	text-align: center;
+	max-width: 12rem;
+}
+
+.kartya6 img{
+	max-height: 600px;
+	max-width: 360px;
+	display: block;
+	margin: 0 auto;
+}
+
+.kartya7{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: gray;
+	border:2px solid black;
+	border-radius: 8px;
+	padding: 12px;
+	margin: 42px;
+	text-align: center;
+	max-width: 12rem;
+}
+
+.kartya7 img{
+	max-height: 600px;
+	max-width: 360px;
+	display: block;
+	margin: 0 auto;
+}
+.kartya8{
+	
+	vertical-align: top;
+	display: inline-block;
+	background-color: gray;
+	border:2px solid black;
+	border-radius: 8px;
+	padding: 12px;
+	margin: 42px;
+	text-align: center;
+	max-width: 12rem;
+}
+
+.kartya8 img{
+	max-height: 600px;
+	max-width: 360px;
+	display: block;
+	margin: 0 auto;
+}
+
